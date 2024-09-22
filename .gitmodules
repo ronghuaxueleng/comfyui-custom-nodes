@@ -109,3 +109,24 @@
 [submodule "was-node-suite-comfyui"]
 	path = was-node-suite-comfyui
 	url = https://github.com/WASasquatch/was-node-suite-comfyui
+[submodule "Upgraded-Depth-Anything-V2"]
+        path = Upgraded-Depth-Anything-V2
+        url = https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2.git
+[submodule "ComfyUI-Crystools"]
+        path = ComfyUI-Crystools
+        url = https://github.com/crystian/ComfyUI-Crystools
+[submodule "ComfyUI-Custom-Scripts"]
+        path = ComfyUI-Custom-Scripts
+        url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+[submodule "ComfyUI-Marigold"]
+        path = ComfyUI-Marigold
+        url = https://github.com/kijai/ComfyUI-Marigold
+[submodule "ComfyUI-WD14-Tagger"]
+        path = ComfyUI-WD14-Tagger
+        url = https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+[submodule "comfy-image-saver"]
+        path = comfy-image-saver
+        url = https://github.com/giriss/comfy-image-saver
+[submodule "comfyui-art-venture"]
+        path = comfyui-art-venture
+        url = https://github.com/sipherxyz/comfyui-art-venture
