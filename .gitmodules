@@ -128,5 +128,5 @@
         path = comfy-image-saver
         url = https://github.com/giriss/comfy-image-saver
 [submodule "comfyui-art-venture"]
-        path = comfyui-art-venture
-        url = https://github.com/sipherxyz/comfyui-art-venture
+	path = comfyui-art-venture
+	url = https://github.com/sipherxyz/comfyui-art-venture
