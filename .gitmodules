@@ -130,3 +130,9 @@
 [submodule "comfyui-art-venture"]
 	path = comfyui-art-venture
 	url = https://github.com/sipherxyz/comfyui-art-venture
+[submodule "ControlAltAI-Nodes"]
+	path = ControlAltAI-Nodes
+	url = https://github.com/gseth/ControlAltAI-Nodes
+[submodule "ComfyUI-Easy-Use"]
+	path = ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use
