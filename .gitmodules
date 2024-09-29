@@ -139,3 +139,6 @@
 [submodule "ComfyUI_UltimateSDUpscale"]
 	path = ComfyUI_UltimateSDUpscale
 	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+[submodule "ComfyUI-KJNodes"]
+	path = ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes
