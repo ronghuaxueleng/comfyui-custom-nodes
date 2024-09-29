@@ -136,3 +136,6 @@
 [submodule "ComfyUI-Easy-Use"]
 	path = ComfyUI-Easy-Use
 	url = https://github.com/yolain/ComfyUI-Easy-Use
+[submodule "ComfyUI_UltimateSDUpscale"]
+	path = ComfyUI_UltimateSDUpscale
+	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale
