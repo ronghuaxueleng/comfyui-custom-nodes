@@ -113,8 +113,8 @@
         path = Upgraded-Depth-Anything-V2
         url = https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2.git
 [submodule "ComfyUI-Crystools"]
-        path = ComfyUI-Crystools
-        url = https://github.com/crystian/ComfyUI-Crystools
+	path = ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools
 [submodule "ComfyUI-Custom-Scripts"]
         path = ComfyUI-Custom-Scripts
         url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
